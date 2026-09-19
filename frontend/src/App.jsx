@@ -4,7 +4,7 @@ import { GraduationCap, TrendingUp, Clock, UserCheck, Loader2 } from 'lucide-rea
 
 // IMPORTANT: Change this to your Render backend URL when you deploy!
 // For local testing, keep it as http://localhost:8000
-const API_URL = "http://localhost:8000/predict";
+const API_URL = "https://student-predictor-app-more.onrender.com/predict";
 
 function App() {
   const [formData, setFormData] = useState({
