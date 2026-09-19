@@ -1,0 +1,13 @@
+   # Backend
+   backend/venv/
+   backend/__pycache__/
+   backend/*.pkl
+   
+   # Frontend
+   frontend/node_modules/
+   frontend/dist/
+   frontend/.env
+   
+   # OS
+   .DS_Store
+   Thumbs.db
